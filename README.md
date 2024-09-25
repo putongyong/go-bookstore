@@ -1,18 +1,17 @@
 # Book Storage System
 
-## Overview
-
-This project is a Book Storage System developed in Go. It allows users to store and manage a collection of books, including adding, updating, and deleting book records. The system provides a RESTful API to interact with the book storage and is designed to be extendable for various use cases.
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Overview
+
+This project is a Book Storage System developed in Go. It allows users to store and manage a collection of books, including adding, updating, and deleting book records. The system provides a RESTful API to interact with the book storage and is designed to be extendable for various use cases.
 
 ## Features
 - Add books with title, author, ISBN, and other relevant details.
