@@ -38,7 +38,7 @@ This project is a Book Storage System developed in Go. It allows users to store 
 
  You will also need Docker Compose, which comes pre-installed with Docker Desktop for Windows and macOS. 
  
- **Build and run the Docker image**:
+ 3. **Build and run the Docker image**:
  Once Docker is installed, you can build and run the project using Docker Compose. Navigate to the project directory and run:
 
  ```bash
@@ -56,12 +56,12 @@ This project is a Book Storage System developed in Go. It allows users to store 
 
 ### Additional Docker Commands
 
-- **Stop the application**:
+1. **Stop the application**:
  ```bash
  docker-compose down
  ```
 
-- **Rebuild the image without cache**:
+2. **Rebuild the image without cache**:
  ```bash
  docker-compose build --no-cache
  ```
