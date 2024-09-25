@@ -90,11 +90,11 @@ Once the project is up and running, you can interact with the book storage syste
 
 ## API Documentation
 The system exposes the following endpoints:
-- `GET /books` - Get a list of all books.
-- `GET /books/{id}` - Get a specific book by ID.
-- `POST /books` - Add a new book to the collection.
-- `PUT /books/{id}` - Update details of a specific book.
-- `DELETE /books/{id}` - Remove a book from the collection.
+- `GET /book/` - Get a list of all books.
+- `GET /book/{bookid}` - Get a specific book by ID.
+- `POST /book/` - Add a new book to the collection.
+- `PUT /book/{bookid}` - Update details of a specific book.
+- `DELETE /book/{bookid}` - Remove a book from the collection.
 
 ## Configuration
 Configuration options (such as port numbers, database connections, etc.) can be adjusted by modifying the
