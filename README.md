@@ -14,7 +14,7 @@
 This project is a Book Storage System developed in Go. It allows users to store and manage a collection of books, including adding, updating, and deleting book records. The system provides a RESTful API to interact with the book storage and is designed to be extendable for various use cases.
 
 ## Features
-- Add books with title, author, ISBN, and other relevant details.
+- Add books with aame, author, publication, and other relevant details.
 - Retrieve information on stored books.
 - Update existing book records.
 - Delete books from the storage.
